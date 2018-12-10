@@ -1,6 +1,6 @@
 <?php
-$recepient = "mail@mail.com";
-$sitename = "Название сайта";
+$recepient = "antonnosov95@gmail.com";
+$sitename = "https://envym.github.io/MailForm/";
 
 $text = trim($_POST["text"]);
 $mail = trim($_POST["mail"]);
